@@ -8,7 +8,7 @@ Parser on Selenium/Парсер на Selenium
 **EN**
 This parser was made using the selenium library for Python. The project was done as part of an internship assignment, and in the example given, I parsed Yandex Weather. You can use it for any purpose. All you need to do is change the URL and selectors.
 
-##‼️WARNING‼️
+#‼️WARNING‼️
 Этот проект создавался в образовательных целях. И за его использование автор не несёт никакой ответственности
 
 This project was created for educational purposes. And the author does not bear any responsibility for its use.
